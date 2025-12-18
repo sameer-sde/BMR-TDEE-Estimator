@@ -1,7 +1,10 @@
 # BMR & Daily Calorie Estimator
 
+## Live Demo
+Check out the live project here: [BMR-TDEE Estimator](https://sameer-sde.github.io/BMR-TDEE-Estimator/)
+
 ## Overview
-This project is a web-based application that calculates a user's Basal Metabolic Rate (BMR) and estimated daily calorie needs based on their gender, height, weight, age, and activity level.  
+This project is a web-based application that calculates a user's Basal Metabolic Rate (BMR) and estimated daily calorie needs based on their gender, height, weight, age, and activity level.
 Focus is on clean logic, modular JavaScript, and user-friendly results.
 
 ## Formula Used
@@ -10,6 +13,7 @@ Focus is on clean logic, modular JavaScript, and user-friendly results.
 
 ## Activity Level Adjustment
 Daily calorie needs (TDEE) = BMR × Activity Factor:  
+
 - Sedentary: 1.2  
 - Lightly active: 1.375  
 - Moderately active: 1.55  
@@ -26,6 +30,7 @@ Daily calorie needs (TDEE) = BMR × Activity Factor:
 - Does not account for body fat percentage or health conditions  
 
 ## How to Run
-1. Open `index.html` in any modern web browser.
+Open `index.html` in any modern web browser.
+
 
 
