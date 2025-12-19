@@ -29,8 +29,6 @@ Daily calorie needs (TDEE) = BMR × Activity Factor:
 - Results are estimates, not medical advice  
 - Does not account for body fat percentage or health conditions  
 
-## How to Run
-Open `index.html` in any modern web browser.
 
 
 
